@@ -1,49 +1,23 @@
 <h1 align="center">Hi There! 👋, I'm Preeti Agrawal</h1>
 
-A student of **Full Stack Web Developer Program** at Helsinki Business College, excited to build, develop, and create. I’m passionate about learning new technologies.
+I am a Full stack developer with a passion for creating modern and dynamic web applications in cloud environment.
 
+My studies and project experiences have given me exposure to modern web development where I built several front-end projects in React.Js, Typescript, CSS3 and back-end Rest APIs in Python, Node.js, Spring-boot.
 
-- 🌱 I work with **Typescript, React.js, Node.js, Redux, AWS, Docker, CI/CD**
+I have hands-on experience with ElasticSearch, Ruby-on-rails, Django as well.
 
-- 🎨 I make designs with Figma
+I have containerised both front-end and back-end applications and deployed them in docker environment e.g. AWS ECS Fargate, docker-compose.
 
-- 👨‍💻 I’m currently doing my internship where I am building web application and writing AWS infrastructure as a code using CDK
+I have hands-on experience with many services in AWS used for serving web applications, including writing AWS infrastructure as a code using CDK.
 
-- 📫 Reach me at **preetiag18@gmail.com**
+I also created Python/shell scripts to automate the deployment which is also used by CI/CD pipelines e.g. Github actions.
+
+- 📫 Reach me at **preetiag18@gmail.com** or at [LinkedIn](https://www.linkedin.com/in/preeti-ag/)
 
 - ⚡ Fun fact, I play badminton, bacause I am tall.
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/preeti-agrawal-11394254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="preeti-agrawal-11394254" height="30" width="40" /></a>
-</p>
+<h3 align="left">Skills:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
-    </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
-    </a>
-    <a href="https://reactjs.org//" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>  
-    </a>
-     <a href="https://nodejs.org/en/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></code>  
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
-    </a> 
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetiag18&layout=compact&theme=nightowl" alt="preetiag18" /></p>
-<br \>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetiag18&show_icons=true&theme=nightowl" alt="preetiag18" /></p>
+-  Languages:- Typescript, React.Js, Node.js, Redux, Spring-boot
+-  Database:- Firebase, MongoDB, Mysql
+-  DevOps:- AWS (ECS Fargate, CodePipeline, CDK IaaC, Beanstalk, CloudFront, Route53), Docker, Github Actions
