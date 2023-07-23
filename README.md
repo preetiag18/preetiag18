@@ -3,11 +3,11 @@
 A student of **Full Stack Web Developer Program** at Helsinki Business College, excited to build, develop, and create. I’m passionate about learning new technologies.
 
 
-- 🌱 I work with **Javascript(ES6), React.js, Node.js, HTML5, CSS3**
+- 🌱 I work with **Typescript, React.js, Node.js, Redux, AWS, Docker, CI/CD**
 
 - 🎨 I make designs with Figma
 
-- 👨‍💻 I’m currently working on my school projects
+- 👨‍💻 I’m currently doing my internship where I am building web application and writing AWS infrastructure as a code using CDK
 
 - 📫 Reach me at **preetiag18@gmail.com**
 
