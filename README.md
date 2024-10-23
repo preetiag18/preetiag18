@@ -26,4 +26,4 @@ As a FullStack developer, I have -
 
 - 📫 Reach me at **preetiag18@gmail.com** or at [LinkedIn](https://www.linkedin.com/in/preeti-ag/)
 
-- ⚡ Fun fact, I play badminton, bacause I am tall.
+- 🏐 🏸 I love to play Vollyball and badminton.
