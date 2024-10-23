@@ -5,7 +5,7 @@ I am a DevOps engineer with full time studies in Full stack development.
 As a Devops Engineer, I have - 
 
 - Setup renovate for automated dependancy updates and fix vulnerabilities
-- Setup AWS cloud infrasture to display vulnerabilites in ECR docker images
+- Setup AWS cloud infrastructure to display vulnerabilites in ECR docker images
 - Wrote CI/CD pipelines for Gitlab, including shell scripts needed to get job done
 - Setup AD user management on SaaS softwares, e.g. Gitlab, SonarCloud, Jfrog
 
